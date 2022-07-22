@@ -8,9 +8,6 @@
 -What about the process of working through a design document did you find helpful when developing the code?
   Design documents are helpful to layout the design of a program. The document outlines what is expected of the program, such as how it should work and what it is supposed to do. Knowing what is expected of the code is important to avoid problems in the future from having to make unexpected changes.
   
--If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-  I would revise the recommendations portion. I was not clear on what specifically needed to be included in that section.
-  
 -How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
   In this case the user needs to be familiar with the concept of a game, be able to use a computer, and understand how to work a web browser. The user is the one who will be using your program, so it is important to consider their needs. If users are unable to or do not want to use your program, then it is not a good program.
   
